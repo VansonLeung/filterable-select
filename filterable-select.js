@@ -3,6 +3,7 @@
  * @author Vanson Leung
  * @createdat 2025 06 23
  * @version 1.0.0
+ * @github https://github.com/VansonLeung/filterable-select/
  */
 
 window.FilterableSelectDOM = (() => {
@@ -46,7 +47,8 @@ window.FilterableSelectDOM = (() => {
             border: 1px solid #ccc;
             border-radius: 5px;
             padding: 5px;
-          "/>
+          ">
+          </div>
         </div>
         <div data-holder-dropdown-list style="padding: 1px;"></div>
       </div>
